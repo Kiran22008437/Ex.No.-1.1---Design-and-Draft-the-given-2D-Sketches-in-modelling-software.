@@ -43,6 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+![Kiran Drawing v1_page-0001](https://user-images.githubusercontent.com/118668751/212687525-7977cb03-bef1-42ea-8063-b366cc171ed6.jpg)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
